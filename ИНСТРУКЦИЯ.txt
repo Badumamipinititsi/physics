@@ -1,0 +1,5 @@
+Для запуска приложения нужно установить PyScripter. Можно скачать это приложение по ссылке https://sourceforge.net/projects/pyscripter/ .
+
+Далее нужно установить библиотеку kivy на компьютер. Для этого можно набрать в командной строке pip install kivy .
+
+После этого скачать с https://github.com/Badumamipinititsi/physics все файлы. Затем в приложении PyScripter запустить файл project.py
